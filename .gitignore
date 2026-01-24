@@ -1,0 +1,9 @@
+*.log
+.venv/
+.idea
+checkpoints/
+output/
+dataset/
+*.pth
+*.pt
+
